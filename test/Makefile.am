@@ -49,6 +49,7 @@ test_programs = \
   test_ffs                   \
   test_session_params        \
   test_span                  \
+  test_io                    \
   test_alloca
 
 if ENABLE_TESTS
